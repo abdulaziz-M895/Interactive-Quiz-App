@@ -134,6 +134,9 @@ body {
 .quiz-app .results span.good {
   color: #01982c;
 }
+.quiz-app .results span.great {
+  color: #0390db;
+}
 .quiz-app .results span.perfect {
   color: #0075ff;
 }
