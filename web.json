@@ -243,9 +243,9 @@
     "question": "Which of the following is a valid value for the 'position' property in CSS?",
     "answer_1": "static",
     "answer_2": "inherit",
-    "answer_3": "unset",
-    "answer_4": "sticky",
-    "correct_answer": "sticky"
+    "answer_3": "sticky",
+    "answer_4": "All of the above",
+    "correct_answer": "All of the above"
   },
   {
     "question": "What is the purpose of the 'overflow' property in CSS?",
