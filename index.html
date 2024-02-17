@@ -9,15 +9,19 @@
   <body>
     <div class="quiz-app">
       <div class="categorys">
-        <h3>Chose a Category to Start:</h3>
-        <button id="general" data-file="general.json">General Knowledge</button>
-        <button id="history" data-file="history.json">History</button>
-        <button id="sports" data-file="sports.json">Sports and Athletics</button>
-        <button id="web" data-file="web.json">Web Development</button>
+        <h3 style="margin-top: 0">Chose a Category to Start:</h3>
+        <div>
+          <button id="general" data-file="general.json">
+            General Knowledge
+          </button>
+          <button id="history" data-file="history.json">History</button>
+          <button id="sports" data-file="sports.json">Sports</button>
+          <button id="web" data-file="web.json">Web Development</button>
+        </div>
       </div>
       <div class="quiz-info">
         <div class="category">Category: <span></span></div>
-        <div class="count">
+        <div class="count" style="text-wrap: nowrap">
           Number Of Questions:
           <select name="qCount" id="qCount">
             <option value="5">5</option>
