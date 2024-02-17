@@ -216,7 +216,7 @@ function showResults(count) {
     submitButton.remove();
     bullets.remove();
 
-    if (rightAnswers >= count - 2 && count > 5) {
+    if (rightAnswers >= count - 2 && count > 5 && rightAnswers != count) {
       theResults = `<span class="great">Great</span>, ${rightAnswers} / ${count}`;
       console.log("Great");
     } else if (rightAnswers === count) {
