@@ -156,3 +156,8 @@ body {
   color: #01982c;
   margin: 5px;
 }
+body > p {
+  background-color: #f8f8f8;
+  padding: 15px;
+  text-align: center;
+}
