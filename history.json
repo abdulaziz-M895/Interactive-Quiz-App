@@ -1,0 +1,314 @@
+[
+  {
+    "question": "Who was the first emperor of Rome?",
+    "answer_1": "Julius Caesar",
+    "answer_2": "Augustus",
+    "answer_3": "Nero",
+    "answer_4": "Caligula",
+    "correct_answer": "Augustus"
+  },
+  {
+    "question": "Which battle marked the end of Napoleon's rule in France?",
+    "answer_1": "Battle of Waterloo",
+    "answer_2": "Battle of Austerlitz",
+    "answer_3": "Battle of Borodino",
+    "answer_4": "Battle of Trafalgar",
+    "correct_answer": "Battle of Waterloo"
+  },
+  {
+    "question": "Who was the first female pharaoh of ancient Egypt?",
+    "answer_1": "Hatshepsut",
+    "answer_2": "Cleopatra",
+    "answer_3": "Nefertiti",
+    "answer_4": "Hatshepsut",
+    "correct_answer": "Hatshepsut"
+  },
+  {
+    "question": "Which event marked the beginning of World War I?",
+    "answer_1": "Assassination of Archduke Franz Ferdinand",
+    "answer_2": "Invasion of Poland",
+    "answer_3": "Bombing of Pearl Harbor",
+    "answer_4": "Treaty of Versailles",
+    "correct_answer": "Assassination of Archduke Franz Ferdinand"
+  },
+  {
+    "question": "Who was the founder of the Mongol Empire?",
+    "answer_1": "Genghis Khan",
+    "answer_2": "Kublai Khan",
+    "answer_3": "Attila the Hun",
+    "answer_4": "Timur",
+    "correct_answer": "Genghis Khan"
+  },
+  {
+    "question": "Which event is known as 'Bloody Sunday' in Russian history?",
+    "answer_1": "1905 Revolution",
+    "answer_2": "Russian Revolution of 1917",
+    "answer_3": "October Revolution",
+    "answer_4": "1917 Revolution",
+    "correct_answer": "1905 Revolution"
+  },
+  {
+    "question": "Who was the longest-reigning British monarch?",
+    "answer_1": "Queen Victoria",
+    "answer_2": "King George III",
+    "answer_3": "Queen Elizabeth II",
+    "answer_4": "King Edward VII",
+    "correct_answer": "Queen Victoria"
+  },
+  {
+    "question": "Which country was the first to grant women the right to vote?",
+    "answer_1": "New Zealand",
+    "answer_2": "United States",
+    "answer_3": "United Kingdom",
+    "answer_4": "Canada",
+    "correct_answer": "New Zealand"
+  },
+  {
+    "question": "Who was the last ruler of the Russian Empire?",
+    "answer_1": "Nicholas II",
+    "answer_2": "Vladimir Lenin",
+    "answer_3": "Joseph Stalin",
+    "answer_4": "Peter the Great",
+    "correct_answer": "Nicholas II"
+  },
+  {
+    "question": "What was the name of the ship that brought the Pilgrims to America in 1620?",
+    "answer_1": "Mayflower",
+    "answer_2": "Santa Maria",
+    "answer_3": "Victoria",
+    "answer_4": "Endeavour",
+    "correct_answer": "Mayflower"
+  },
+  {
+    "question": "Who was the leader of the Soviet Union during World War II?",
+    "answer_1": "Joseph Stalin",
+    "answer_2": "Vladimir Lenin",
+    "answer_3": "Leon Trotsky",
+    "answer_4": "Mikhail Gorbachev",
+    "correct_answer": "Joseph Stalin"
+  },
+  {
+    "question": "Which city was the capital of the Byzantine Empire?",
+    "answer_1": "Constantinople",
+    "answer_2": "Rome",
+    "answer_3": "Athens",
+    "answer_4": "Jerusalem",
+    "correct_answer": "Constantinople"
+  },
+  {
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "answer_1": "Amelia Earhart",
+    "answer_2": "Beryl Markham",
+    "answer_3": "Harriet Quimby",
+    "answer_4": "Jacqueline Cochran",
+    "correct_answer": "Amelia Earhart"
+  },
+  {
+    "question": "What was the name of the ship that sank in the North Atlantic Ocean in 1912?",
+    "answer_1": "Titanic",
+    "answer_2": "Lusitania",
+    "answer_3": "Britannic",
+    "answer_4": "Queen Mary",
+    "correct_answer": "Titanic"
+  },
+  {
+    "question": "Who was the author of 'The Communist Manifesto'?",
+    "answer_1": "Karl Marx",
+    "answer_2": "Friedrich Engels",
+    "answer_3": "Vladimir Lenin",
+    "answer_4": "Joseph Stalin",
+    "correct_answer": "Karl Marx"
+  },
+  {
+    "question": "Which event marked the end of the Cold War?",
+    "answer_1": "Fall of the Berlin Wall",
+    "answer_2": "Cuban Missile Crisis",
+    "answer_3": "Vietnam War",
+    "answer_4": "Korean War",
+    "correct_answer": "Fall of the Berlin Wall"
+  },
+  {
+    "question": "What was the code name for the Allied invasion of Normandy during World War II?",
+    "answer_1": "Operation Overlord",
+    "answer_2": "Operation Barbarossa",
+    "answer_3": "Operation Market Garden",
+    "answer_4": "Operation Neptune",
+    "correct_answer": "Operation Overlord"
+  },
+  {
+    "question": "Who was the first man to step on the moon?",
+    "answer_1": "Neil Armstrong",
+    "answer_2": "Buzz Aldrin",
+    "answer_3": "Yuri Gagarin",
+    "answer_4": "Alan Shepard",
+    "correct_answer": "Neil Armstrong"
+  },
+  {
+    "question": "What year did the Great Fire of London occur?",
+    "answer_1": "1666",
+    "answer_2": "1776",
+    "answer_3": "1492",
+    "answer_4": "1912",
+    "correct_answer": "1666"
+  },
+  {
+    "question": "Who was the first African-American President of the United States?",
+    "answer_1": "Barack Obama",
+    "answer_2": "Martin Luther King Jr.",
+    "answer_3": "Malcolm X",
+    "answer_4": "Nelson Mandela",
+    "correct_answer": "Barack Obama"
+  },
+  {
+    "question": "Which country was the first to launch a satellite into space?",
+    "answer_1": "Soviet Union",
+    "answer_2": "United States",
+    "answer_3": "China",
+    "answer_4": "France",
+    "correct_answer": "Soviet Union"
+  },
+  {
+    "question": "Who was the first female president of a country?",
+    "answer_1": "Sirimavo Bandaranaike",
+    "answer_2": "Golda Meir",
+    "answer_3": "Indira Gandhi",
+    "answer_4": "Margaret Thatcher",
+    "correct_answer": "Sirimavo Bandaranaike"
+  },
+  {
+    "question": "Which ancient civilization built the city of Machu Picchu?",
+    "answer_1": "Inca",
+    "answer_2": "Maya",
+    "answer_3": "Aztec",
+    "answer_4": "Egyptian",
+    "correct_answer": "Inca"
+  },
+  {
+    "question": "Who was the first man to circumnavigate the globe?",
+    "answer_1": "Ferdinand Magellan",
+    "answer_2": "Christopher Columbus",
+    "answer_3": "Captain Cook",
+    "answer_4": "Vasco da Gama",
+    "correct_answer": "Ferdinand Magellan"
+  },
+  {
+    "question": "What year did the American Civil War end?",
+    "answer_1": "1865",
+    "answer_2": "1861",
+    "answer_3": "1870",
+    "answer_4": "1863",
+    "correct_answer": "1865"
+  },
+  {
+    "question": "Who painted The Starry Night?",
+    "answer_1": "Vincent van Gogh",
+    "answer_2": "Pablo Picasso",
+    "answer_3": "Leonardo da Vinci",
+    "answer_4": "Salvador Dali",
+    "correct_answer": "Vincent van Gogh"
+  },
+  {
+    "question": "What year did the American Declaration of Independence get signed?",
+    "answer_1": "1776",
+    "answer_2": "1789",
+    "answer_3": "1800",
+    "answer_4": "1756",
+    "correct_answer": "1776"
+  },
+  {
+    "question": "Who was the first woman to fly solo across the Atlantic?",
+    "answer_1": "Amelia Earhart",
+    "answer_2": "Beryl Markham",
+    "answer_3": "Harriet Quimby",
+    "answer_4": "Jacqueline Cochran",
+    "correct_answer": "Amelia Earhart"
+  },
+  {
+    "question": "Which ancient wonder of the world was located in Alexandria, Egypt?",
+    "answer_1": "Lighthouse of Alexandria",
+    "answer_2": "Colossus of Rhodes",
+    "answer_3": "Great Pyramid of Giza",
+    "answer_4": "Hanging Gardens of Babylon",
+    "correct_answer": "Lighthouse of Alexandria"
+  },
+  {
+    "question": "In which century did the Islamic Golden Age occur?",
+    "answer_1": "7th century",
+    "answer_2": "8th century",
+    "answer_3": "9th century",
+    "answer_4": "10th century",
+    "correct_answer": "9th century"
+  },
+  {
+    "question": "Who was the founder of the Abbasid Caliphate, which ruled the Islamic world during much of the Islamic Golden Age?",
+    "answer_1": "Muhammad",
+    "answer_2": "Abu Bakr",
+    "answer_3": "Umar ibn al-Khattab",
+    "answer_4": "Abu al-Abbas al-Saffah",
+    "correct_answer": "Abu al-Abbas al-Saffah"
+  },
+  {
+    "question": "What was the name of the capital city of the Abbasid Caliphate during its golden age?",
+    "answer_1": "Cairo",
+    "answer_2": "Mecca",
+    "answer_3": "Medina",
+    "answer_4": "Baghdad",
+    "correct_answer": "Baghdad"
+  },
+  {
+    "question": "Who was the famous Islamic scholar and philosopher known as the 'Father of Islamic Philosophy'?",
+    "answer_1": "Ibn Khaldun",
+    "answer_2": "Al-Farabi",
+    "answer_3": "Ibn Sina",
+    "answer_4": "Al-Ghazali",
+    "correct_answer": "Al-Farabi"
+  },
+  {
+    "question": "What was the name of the battle in 636 CE that resulted in the Islamic conquest of Byzantine territories in the Levant?",
+    "answer_1": "Battle of Yarmouk",
+    "answer_2": "Battle of Qadisiyyah",
+    "answer_3": "Battle of Tours",
+    "answer_4": "Battle of Badr",
+    "correct_answer": "Battle of Yarmouk"
+  },
+  {
+    "question": "Who was the famous Islamic scholar and polymath known for his contributions to medicine, astronomy, and philosophy?",
+    "answer_1": "Al-Kindi",
+    "answer_2": "Ibn Rushd",
+    "answer_3": "Ibn Sina",
+    "answer_4": "Al-Razi",
+    "correct_answer": "Ibn Sina"
+  },
+  {
+    "question": "Which Islamic dynasty ruled Spain during the period known as the 'Golden Age of Al-Andalus'?",
+    "answer_1": "Umayyad Caliphate",
+    "answer_2": "Abbasid Caliphate",
+    "answer_3": "Fatimid Caliphate",
+    "answer_4": "Ayyubid Dynasty",
+    "correct_answer": "Umayyad Caliphate"
+  },
+  {
+    "question": "What was the name of the famous library and center of learning in medieval Islamic Spain?",
+    "answer_1": "Library of Alexandria",
+    "answer_2": "House of Wisdom",
+    "answer_3": "Al-Azhar University",
+    "answer_4": "House of Knowledge",
+    "correct_answer": "House of Wisdom"
+  },
+  {
+    "question": "Who was the famous Islamic historian and scholar known for his work 'The Muqaddimah'?",
+    "answer_1": "Ibn Khaldun",
+    "answer_2": "Al-Biruni",
+    "answer_3": "Al-Tabari",
+    "answer_4": "Ibn al-Athir",
+    "correct_answer": "Ibn Khaldun"
+  },
+  {
+    "question": "Which Islamic scholar and theologian is known for his interpretation of Islamic law known as the 'Muwatta'?",
+    "answer_1": "Imam Malik",
+    "answer_2": "Imam Shafi'i",
+    "answer_3": "Imam Hanafi",
+    "answer_4": "Imam Abu Hanifa",
+    "correct_answer": "Imam Malik"
+  }
+]

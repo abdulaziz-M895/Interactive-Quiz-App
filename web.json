@@ -1,0 +1,282 @@
+[
+  {
+    "question": "What does CSS stand for?",
+    "answer_1": "Computer Style Syntax",
+    "answer_2": "Cascading Style Sheets",
+    "answer_3": "Coding Style Standards",
+    "answer_4": "Creative Style System",
+    "correct_answer": "Cascading Style Sheets"
+  },
+  {
+    "question": "Which HTML tag is used to define an unordered list?",
+    "answer_1": "<ul>",
+    "answer_2": "<ol>",
+    "answer_3": "<li>",
+    "answer_4": "<list>",
+    "correct_answer": "<ul>"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "answer_1": "Hyper Text Multiple Language",
+    "answer_2": "Hyperlinks and Text Markup Language",
+    "answer_3": "Home Tool Markup Language",
+    "answer_4": "Hypertext Markup Language",
+    "correct_answer": "Hypertext Markup Language"
+  },
+  {
+    "question": "Which of the following is NOT a programming language?",
+    "answer_1": "JavaScript",
+    "answer_2": "FTP",
+    "answer_3": "Python",
+    "answer_4": "Ruby",
+    "correct_answer": "FTP"
+  },
+  {
+    "question": "Which of the following is used to select elements by their class name in CSS?",
+    "answer_1": ".",
+    "answer_2": "#",
+    "answer_3": "@",
+    "answer_4": "&",
+    "correct_answer": "."
+  },
+  {
+    "question": "What does DOM stand for in web development?",
+    "answer_1": "Data Object Model",
+    "answer_2": "Document Object Model",
+    "answer_3": "Display Object Model",
+    "answer_4": "Dynamic Object Model",
+    "correct_answer": "Document Object Model"
+  },
+  {
+    "question": "Which CSS property controls the spacing between elements?",
+    "answer_1": "padding",
+    "answer_2": "margin",
+    "answer_3": "border",
+    "answer_4": "float",
+    "correct_answer": "margin"
+  },
+  {
+    "question": "Which of the following is a correct way to comment in HTML?",
+    "answer_1": "<!-- This is a comment -->",
+    "answer_2": "// This is a comment",
+    "answer_3": "' This is a comment",
+    "answer_4": "/* This is a comment */",
+    "correct_answer": "<!-- This is a comment -->"
+  },
+  {
+    "question": "What is the purpose of the 'alt' attribute in HTML?",
+    "answer_1": "To align text",
+    "answer_2": "To provide alternative text for an image",
+    "answer_3": "To add a background color",
+    "answer_4": "To define a hyperlink",
+    "correct_answer": "To provide alternative text for an image"
+  },
+  {
+    "question": "Which of the following is NOT a valid HTTP status code?",
+    "answer_1": "404",
+    "answer_2": "300",
+    "answer_3": "1000",
+    "answer_4": "200",
+    "correct_answer": "1000"
+  },
+  {
+    "question": "Which CSS property is used to change the text color of an element?",
+    "answer_1": "color",
+    "answer_2": "font-color",
+    "answer_3": "text-color",
+    "answer_4": "font-style",
+    "correct_answer": "color"
+  },
+  {
+    "question": "Which of the following is used to declare a variable in JavaScript?",
+    "answer_1": "let",
+    "answer_2": "var",
+    "answer_3": "const",
+    "answer_4": "All of the above",
+    "correct_answer": "All of the above"
+  },
+  {
+    "question": "What is the correct way to close a self-closing HTML tag?",
+    "answer_1": "<//>",
+    "answer_2": "</>",
+    "answer_3": "<\\>",
+    "answer_4": "/>",
+    "correct_answer": "/>"
+  },
+  {
+    "question": "What does AJAX stand for?",
+    "answer_1": "Asynchronous JavaScript and XHTML",
+    "answer_2": "Advanced JavaScript and XML",
+    "answer_3": "Asynchronous JavaScript and XML",
+    "answer_4": "Automatic JavaScript and XML",
+    "correct_answer": "Asynchronous JavaScript and XML"
+  },
+  {
+    "question": "Which of the following is a valid color value in CSS?",
+    "answer_1": "#ff0000",
+    "answer_2": "red",
+    "answer_3": "rgb(255,0,0)",
+    "answer_4": "All of the above",
+    "correct_answer": "All of the above"
+  },
+  {
+    "question": "What is the default display property for <div> elements in CSS?",
+    "answer_1": "inline-block",
+    "answer_2": "block",
+    "answer_3": "inline",
+    "answer_4": "flex",
+    "correct_answer": "block"
+  },
+  {
+    "question": "What is the purpose of the 'href' attribute in an anchor (<a>) tag?",
+    "answer_1": "To define the font style",
+    "answer_2": "To specify the URL of the page the link goes to",
+    "answer_3": "To add a background image",
+    "answer_4": "To create a tooltip",
+    "correct_answer": "To specify the URL of the page the link goes to"
+  },
+  {
+    "question": "Which of the following is NOT a valid data type in JavaScript?",
+    "answer_1": "number",
+    "answer_2": "string",
+    "answer_3": "boolean",
+    "answer_4": "array",
+    "correct_answer": "array"
+  },
+  {
+    "question": "What is the purpose of the 'src' attribute in an <img> tag?",
+    "answer_1": "To add a caption to the image",
+    "answer_2": "To define the size of the image",
+    "answer_3": "To set the alignment of the image",
+    "answer_4": "To specify the URL of the image",
+    "correct_answer": "To specify the URL of the image"
+  },
+  {
+    "question": "Which of the following is a valid way to create a function in JavaScript?",
+    "answer_1": "function myFunction() {}",
+    "answer_2": "sub myFunction() {}",
+    "answer_3": "def myFunction() {}",
+    "answer_4": "void myFunction() {}",
+    "correct_answer": "function myFunction() {}"
+  },
+  {
+    "question": "What does CDN stand for in web development?",
+    "answer_1": "Content Delivery Network",
+    "answer_2": "Central Developer Network",
+    "answer_3": "Cascading Data Network",
+    "answer_4": "Cross-Domain Navigation",
+    "correct_answer": "Content Delivery Network"
+  },
+  {
+    "question": "What is the purpose of the 'title' attribute in HTML?",
+    "answer_1": "To define a hyperlink",
+    "answer_2": "To set the font size of an element",
+    "answer_3": "To provide additional information about an element",
+    "answer_4": "To specify the URL of the page the link goes to",
+    "correct_answer": "To provide additional information about an element"
+  },
+  {
+    "question": "Which of the following is NOT a CSS preprocessor?",
+    "answer_1": "Sass",
+    "answer_2": "Bootstrap",
+    "answer_3": "Less",
+    "answer_4": "Stylus",
+    "correct_answer": "Bootstrap"
+  },
+  {
+    "question": "What is the purpose of the 'display' property in CSS?",
+    "answer_1": "To specify how an element is displayed",
+    "answer_2": "To control the positioning of an element",
+    "answer_3": "To define the color of an element",
+    "answer_4": "To add a background image to an element",
+    "correct_answer": "To specify how an element is displayed"
+  },
+  {
+    "question": "Which of the following is used to add interactivity to a webpage?",
+    "answer_1": "PHP",
+    "answer_2": "HTML",
+    "answer_3": "CSS",
+    "answer_4": "JavaScript",
+    "correct_answer": "JavaScript"
+  },
+  {
+    "question": "What is the purpose of the 'target' attribute in an anchor (<a>) tag?",
+    "answer_1": "To specify where to open the linked document",
+    "answer_2": "To define the font size of the link",
+    "answer_3": "To add a background color to the link",
+    "answer_4": "To create a tooltip for the link",
+    "correct_answer": "To specify where to open the linked document"
+  },
+  {
+    "question": "Which of the following is NOT a valid value for the 'position' property in CSS?",
+    "answer_1": "absolute",
+    "answer_2": "center",
+    "answer_3": "relative",
+    "answer_4": "fixed",
+    "correct_answer": "center"
+  },
+  {
+    "question": "What is the purpose of the 'border-radius' property in CSS?",
+    "answer_1": "To change the font of an element",
+    "answer_2": "To add a border to an element",
+    "answer_3": "To round the corners of an element",
+    "answer_4": "To align text within an element",
+    "correct_answer": "To round the corners of an element"
+  },
+  {
+    "question": "Which of the following is NOT a valid CSS selector?",
+    "answer_1": "p.myClass",
+    "answer_2": "#myElement",
+    "answer_3": ".myClass",
+    "answer_4": "$('p')",
+    "correct_answer": "$('p')"
+  },
+  {
+    "question": "What is the purpose of the 'box-sizing' property in CSS?",
+    "answer_1": "To control how the width and height of an element are calculated",
+    "answer_2": "To add a border to an element",
+    "answer_3": "To change the font of an element",
+    "answer_4": "To align text within an element",
+    "correct_answer": "To control how the width and height of an element are calculated"
+  },
+  {
+    "question": "Which of the following is a valid value for the 'position' property in CSS?",
+    "answer_1": "static",
+    "answer_2": "inherit",
+    "answer_3": "unset",
+    "answer_4": "sticky",
+    "correct_answer": "sticky"
+  },
+  {
+    "question": "What is the purpose of the 'overflow' property in CSS?",
+    "answer_1": "To add a background color to an element",
+    "answer_2": "To control what happens when content overflows its containing element",
+    "answer_3": "To specify the font size of an element",
+    "answer_4": "To align text within an element",
+    "correct_answer": "To control what happens when content overflows its containing element"
+  },
+  {
+    "question": "Which of the following is a valid CSS function?",
+    "answer_1": "divide()",
+    "answer_2": "add()",
+    "answer_3": "multiply()",
+    "answer_4": "rgba()",
+    "correct_answer": "rgba()"
+  },
+  {
+    "question": "What is the purpose of the 'clear' property in CSS?",
+    "answer_1": "To control the wrapping of floating elements",
+    "answer_2": "To add a border to an element",
+    "answer_3": "To change the font of an element",
+    "answer_4": "To align text within an element",
+    "correct_answer": "To control the wrapping of floating elements"
+  },
+  {
+    "question": "Which of the following is NOT a valid value for the 'display' property in CSS?",
+    "answer_1": "inline",
+    "answer_2": "block",
+    "answer_3": "center",
+    "answer_4": "none",
+    "correct_answer": "center"
+  }
+]

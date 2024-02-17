@@ -1,0 +1,274 @@
+[
+  {
+    "question": "Which sport is played with a shuttlecock?",
+    "answer_1": "Badminton",
+    "answer_2": "Tennis",
+    "answer_3": "Squash",
+    "answer_4": "Table Tennis",
+    "correct_answer": "Badminton"
+  },
+  {
+    "question": "Which of these sports uses a net but doesn't use a ball?",
+    "answer_1": "Volleyball",
+    "answer_2": "Tennis",
+    "answer_3": "Badminton",
+    "answer_4": "Pickleball",
+    "correct_answer": "Badminton"
+  },
+  {
+    "question": "Who has won the most Wimbledon titles in tennis history?",
+    "answer_1": "Rafael Nadal",
+    "answer_2": "Roger Federer",
+    "answer_3": "Novak Djokovic",
+    "answer_4": "Pete Sampras",
+    "correct_answer": "Roger Federer"
+  },
+  {
+    "question": "In which country did judo originate?",
+    "answer_1": "South Korea",
+    "answer_2": "China",
+    "answer_3": "Japan",
+    "answer_4": "Thailand",
+    "correct_answer": "Japan"
+  },
+  {
+    "question": "Which of the following is NOT a type of swimming stroke?",
+    "answer_1": "Butterfly",
+    "answer_2": "Crawl",
+    "answer_3": "Waddle",
+    "answer_4": "Breaststroke",
+    "correct_answer": "Waddle"
+  },
+  {
+    "question": "What is the highest score possible in a single game of bowling?",
+    "answer_1": "400",
+    "answer_2": "200",
+    "answer_3": "250",
+    "answer_4": "300",
+    "correct_answer": "300"
+  },
+  {
+    "question": "Which country won the FIFA World Cup in 2018?",
+    "answer_1": "France",
+    "answer_2": "Brazil",
+    "answer_3": "Germany",
+    "answer_4": "Argentina",
+    "correct_answer": "France"
+  },
+  {
+    "question": "How many players are there in a baseball team?",
+    "answer_1": "11",
+    "answer_2": "9",
+    "answer_3": "7",
+    "answer_4": "10",
+    "correct_answer": "9"
+  },
+  {
+    "question": "What is the diameter of a basketball hoop in inches?",
+    "answer_1": "20",
+    "answer_2": "16",
+    "answer_3": "18",
+    "answer_4": "22",
+    "correct_answer": "18"
+  },
+  {
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "answer_1": "Russia",
+    "answer_2": "China",
+    "answer_3": "United States",
+    "answer_4": "Brazil",
+    "correct_answer": "Brazil"
+  },
+  {
+    "question": "Which sport is called the 'king of sports'?",
+    "answer_1": "Football",
+    "answer_2": "Basketball",
+    "answer_3": "Baseball",
+    "answer_4": "Tennis",
+    "correct_answer": "Football"
+  },
+  {
+    "question": "In which city did the first modern Olympic Games take place in 1896?",
+    "answer_1": "Paris",
+    "answer_2": "Athens",
+    "answer_3": "London",
+    "answer_4": "Rome",
+    "correct_answer": "Athens"
+  },
+  {
+    "question": "What is the national sport of Canada?",
+    "answer_1": "Soccer",
+    "answer_2": "Hockey",
+    "answer_3": "Lacrosse",
+    "answer_4": "Curling",
+    "correct_answer": "Lacrosse"
+  },
+  {
+    "question": "Which of the following is NOT a type of wrestling?",
+    "answer_1": "Sumo",
+    "answer_2": "Greco-Roman",
+    "answer_3": "Freestyle",
+    "answer_4": "Karate",
+    "correct_answer": "Karate"
+  },
+  {
+    "question": "Which player has won the most Grand Slam titles in tennis history?",
+    "answer_1": "Roger Federer",
+    "answer_2": "Rafael Nadal",
+    "answer_3": "Novak Djokovic",
+    "answer_4": "Pete Sampras",
+    "correct_answer": "Roger Federer"
+  },
+  {
+    "question": "Which of the following sports is NOT part of the triathlon?",
+    "answer_1": "Cycling",
+    "answer_2": "Horse Riding",
+    "answer_3": "Running",
+    "answer_4": "Swimming",
+    "correct_answer": "Horse Riding"
+  },
+  {
+    "question": "Who won the 2019 FIFA Women's World Cup?",
+    "answer_1": "Germany",
+    "answer_2": "Sweden",
+    "answer_3": "United States",
+    "answer_4": "France",
+    "correct_answer": "United States"
+  },
+  {
+    "question": "How many players are there in a rugby union team?",
+    "answer_1": "9",
+    "answer_2": "11",
+    "answer_3": "13",
+    "answer_4": "15",
+    "correct_answer": "15"
+  },
+  {
+    "question": "What is the height of an official basketball hoop in feet?",
+    "answer_1": "10",
+    "answer_2": "8",
+    "answer_3": "9",
+    "answer_4": "11",
+    "correct_answer": "10"
+  },
+  {
+    "question": "Which country won the most medals in the 2016 Summer Olympics?",
+    "answer_1": "United States",
+    "answer_2": "China",
+    "answer_3": "Russia",
+    "answer_4": "Great Britain",
+    "correct_answer": "United States"
+  },
+  {
+    "question": "Which sport uses a shuttlecock?",
+    "answer_1": "Tennis",
+    "answer_2": "Badminton",
+    "answer_3": "Table Tennis",
+    "answer_4": "Squash",
+    "correct_answer": "Badminton"
+  },
+  {
+    "question": "In which sport is the Davis Cup awarded?",
+    "answer_1": "Cricket",
+    "answer_2": "Golf",
+    "answer_3": "Tennis",
+    "answer_4": "Rugby",
+    "correct_answer": "Tennis"
+  },
+  {
+    "question": "Who won the 2018 FIFA Men's World Cup?",
+    "answer_1": "Spain",
+    "answer_2": "Germany",
+    "answer_3": "Brazil",
+    "answer_4": "France",
+    "correct_answer": "France"
+  },
+  {
+    "question": "Which of the following is NOT an event in the Olympic decathlon?",
+    "answer_1": "Swimming",
+    "answer_2": "High Jump",
+    "answer_3": "110m Hurdles",
+    "answer_4": "Pole Vault",
+    "correct_answer": "Swimming"
+  },
+  {
+    "question": "What is the diameter of a golf hole in inches?",
+    "answer_1": "3.5",
+    "answer_2": "4.25",
+    "answer_3": "5",
+    "answer_4": "6",
+    "correct_answer": "4.25"
+  },
+  {
+    "question": "Who is known as 'The Greatest' in boxing?",
+    "answer_1": "Floyd Mayweather Jr.",
+    "answer_2": "Mike Tyson",
+    "answer_3": "Muhammad Ali",
+    "answer_4": "Manny Pacquiao",
+    "correct_answer": "Muhammad Ali"
+  },
+  {
+    "question": "What is the maximum number of clubs allowed in a golfer's bag during a round?",
+    "answer_1": "16",
+    "answer_2": "10",
+    "answer_3": "12",
+    "answer_4": "14",
+    "correct_answer": "14"
+  },
+  {
+    "question": "Which of the following is NOT a type of football?",
+    "answer_1": "Volleyball",
+    "answer_2": "Rugby",
+    "answer_3": "Soccer",
+    "answer_4": "American Football",
+    "correct_answer": "Volleyball"
+  },
+  {
+    "question": "Who holds the record for the most Olympic gold medals?",
+    "answer_1": "Michael Phelps",
+    "answer_2": "Usain Bolt",
+    "answer_3": "Carl Lewis",
+    "answer_4": "Paavo Nurmi",
+    "correct_answer": "Michael Phelps"
+  },
+  {
+    "question": "Which of the following sports does NOT use a ball?",
+    "answer_1": "Tennis",
+    "answer_2": "Wrestling",
+    "answer_3": "Volleyball",
+    "answer_4": "Basketball",
+    "correct_answer": "Wrestling"
+  },
+  {
+    "question": "What is the name of the trophy awarded to the winner of the Super Bowl?",
+    "answer_1": "Claret Jug",
+    "answer_2": "Stanley Cup",
+    "answer_3": "Lombardi Trophy",
+    "answer_4": "Vince Lombardi Trophy",
+    "correct_answer": "Lombardi Trophy"
+  },
+  {
+    "question": "Which of the following is NOT a gymnastics apparatus used in artistic gymnastics?",
+    "answer_1": "Pommel Horse",
+    "answer_2": "Vault",
+    "answer_3": "Balance Beam",
+    "answer_4": "Shot Put",
+    "correct_answer": "Shot Put"
+  },
+  {
+    "question": "What is the diameter of a basketball in inches?",
+    "answer_1": "29.5",
+    "answer_2": "28",
+    "answer_3": "30",
+    "answer_4": "27.5",
+    "correct_answer": "29.5"
+  },
+  {
+    "question": "In which sport is the Copa America tournament held?",
+    "answer_1": "Basketball",
+    "answer_2": "Football",
+    "answer_3": "Tennis",
+    "answer_4": "Cricket",
+    "correct_answer": "Football"
+  }
+]

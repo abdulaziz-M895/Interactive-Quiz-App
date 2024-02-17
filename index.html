@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="main.css" />
+  </head>
+  <body>
+    <div class="quiz-app">
+      <div class="categorys">
+        <h3>Chose a Category to Start:</h3>
+        <button id="general" data-file="general.json">General Knowledge</button>
+        <button id="history" data-file="history.json">History</button>
+        <button id="sports" data-file="sports.json">Sports and Athletics</button>
+        <button id="web" data-file="web.json">Web Development</button>
+      </div>
+      <div class="quiz-info">
+        <div class="category">Category: <span></span></div>
+        <div class="count">
+          Number Of Questions:
+          <select name="qCount" id="qCount">
+            <option value="5">5</option>
+            <option value="10">10</option>
+            <option value="15">15</option>
+            <option value="20">20</option>
+          </select>
+          <span></span>
+        </div>
+      </div>
+      <div class="quiz-area"></div>
+      <div class="answers-area"></div>
+      <div class="submit">
+        <button class="submit-button">Submit Answer</button>
+      </div>
+      <div class="bullets">
+        <div class="spans"></div>
+        <div class="countdown"></div>
+      </div>
+      <div class="results"></div>
+      <div class="corrected-answers">
+        <h1>Your Wrong Answers</h1>
+      </div>
+    </div>
+    <script src="main.js"></script>
+  </body>
+</html>

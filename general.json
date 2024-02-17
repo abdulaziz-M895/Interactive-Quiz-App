@@ -1,0 +1,282 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answer_1": "London",
+    "answer_2": "Berlin",
+    "answer_3": "Paris",
+    "answer_4": "Rome",
+    "correct_answer": "Paris"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "answer_1": "William Shakespeare",
+    "answer_2": "Charles Dickens",
+    "answer_3": "Jane Austen",
+    "answer_4": "Mark Twain",
+    "correct_answer": "William Shakespeare"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer_1": "Yen",
+    "answer_2": "Euro",
+    "answer_3": "Dollar",
+    "answer_4": "Pound",
+    "correct_answer": "Yen"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "answer_1": "Atlantic Ocean",
+    "answer_2": "Indian Ocean",
+    "answer_3": "Pacific Ocean",
+    "answer_4": "Arctic Ocean",
+    "correct_answer": "Pacific Ocean"
+  },
+  {
+    "question": "Which planet is known as the 'Red Planet'?",
+    "answer_1": "Venus",
+    "answer_2": "Jupiter",
+    "answer_3": "Mars",
+    "answer_4": "Saturn",
+    "correct_answer": "Mars"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "answer_1": "Elephant",
+    "answer_2": "Whale",
+    "answer_3": "Giraffe",
+    "answer_4": "Hippopotamus",
+    "correct_answer": "Whale"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer_1": "Vincent van Gogh",
+    "answer_2": "Pablo Picasso",
+    "answer_3": "Leonardo da Vinci",
+    "answer_4": "Michelangelo",
+    "correct_answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answer_1": "Au",
+    "answer_2": "Ag",
+    "answer_3": "Fe",
+    "answer_4": "Pb",
+    "correct_answer": "Au"
+  },
+  {
+    "question": "Who was the first person to step on the moon?",
+    "answer_1": "Alan Shepard",
+    "answer_2": "Buzz Aldrin",
+    "answer_3": "Yuri Gagarin",
+    "answer_4": "Neil Armstrong",
+    "correct_answer": "Neil Armstrong"
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "answer_1": "Makalu",
+    "answer_2": "K2",
+    "answer_3": "Kangchenjunga",
+    "answer_4": "Mount Everest",
+    "correct_answer": "Mount Everest"
+  },
+  {
+    "question": "Who is the author of 'To Kill a Mockingbird'?",
+    "answer_1": "Harper Lee",
+    "answer_2": "J.K. Rowling",
+    "answer_3": "Stephen King",
+    "answer_4": "Ernest Hemingway",
+    "correct_answer": "Harper Lee"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "answer_1": "Liver",
+    "answer_2": "Heart",
+    "answer_3": "Skin",
+    "answer_4": "Brain",
+    "correct_answer": "Skin"
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "answer_1": "Isaac Newton",
+    "answer_2": "Albert Einstein",
+    "answer_3": "Stephen Hawking",
+    "answer_4": "Galileo Galilei",
+    "correct_answer": "Albert Einstein"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "answer_1": "NaCl",
+    "answer_2": "CO2",
+    "answer_3": "H2O",
+    "answer_4": "O2",
+    "correct_answer": "H2O"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "answer_1": "Sahara Desert",
+    "answer_2": "Arabian Desert",
+    "answer_3": "Gobi Desert",
+    "answer_4": "Antarctic Desert",
+    "correct_answer": "Antarctic Desert"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "answer_1": "Diamond",
+    "answer_2": "Steel",
+    "answer_3": "Iron",
+    "answer_4": "Graphite",
+    "correct_answer": "Diamond"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "answer_1": "China",
+    "answer_2": "Japan",
+    "answer_3": "India",
+    "answer_4": "South Korea",
+    "correct_answer": "Japan"
+  },
+  {
+    "question": "Who is known as the father of modern physics?",
+    "answer_1": "Isaac Newton",
+    "answer_2": "Galileo Galilei",
+    "answer_3": "Albert Einstein",
+    "answer_4": "Stephen Hawking",
+    "correct_answer": "Albert Einstein"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answer_1": "Earth",
+    "answer_2": "Saturn",
+    "answer_3": "Mars",
+    "answer_4": "Jupiter",
+    "correct_answer": "Jupiter"
+  },
+  {
+    "question": "Which country is famous for its tulips?",
+    "answer_1": "Netherlands",
+    "answer_2": "Italy",
+    "answer_3": "France",
+    "answer_4": "Germany",
+    "correct_answer": "Netherlands"
+  },
+  {
+    "question": "What is the largest mammal on land?",
+    "answer_1": "Giraffe",
+    "answer_2": "Elephant",
+    "answer_3": "Hippopotamus",
+    "answer_4": "Rhino",
+    "correct_answer": "Elephant"
+  },
+  {
+    "question": "Who Created Sherlock Holmes?",
+    "answer_1": "F. Scott Fitzgerald",
+    "answer_2": "Ernest Hemingway",
+    "answer_3": "Arthur Conan Doyle",
+    "answer_4": "William Faulkner",
+    "correct_answer": "Arthur Conan Doyle"
+  },
+  {
+    "question": "What is the chemical symbol for oxygen?",
+    "answer_1": "NaCl",
+    "answer_2": "H2O",
+    "answer_3": "CO2",
+    "answer_4": "O2",
+    "correct_answer": "O2"
+  },
+  {
+    "question": "Which planet is known as the 'Morning Star'?",
+    "answer_1": "Venus",
+    "answer_2": "Mars",
+    "answer_3": "Jupiter",
+    "answer_4": "Saturn",
+    "correct_answer": "Venus"
+  },
+  {
+    "question": "Who painted 'Starry Night'?",
+    "answer_1": "Pablo Picasso",
+    "answer_2": "Vincent van Gogh",
+    "answer_3": "Leonardo da Vinci",
+    "answer_4": "Claude Monet",
+    "correct_answer": "Vincent van Gogh"
+  },
+  {
+    "question": "What is the chemical symbol for silver?",
+    "answer_1": "Fe",
+    "answer_2": "Au",
+    "answer_3": "Ag",
+    "answer_4": "Pb",
+    "correct_answer": "Ag"
+  },
+  {
+    "question": "Which planet is known as the 'Evening Star'?",
+    "answer_1": "Saturn",
+    "answer_2": "Mars",
+    "answer_3": "Jupiter",
+    "answer_4": "Venus",
+    "correct_answer": "Venus"
+  },
+  {
+    "question": "Who wrote '1984'?",
+    "answer_1": "George Orwell",
+    "answer_2": "Aldous Huxley",
+    "answer_3": "Ray Bradbury",
+    "answer_4": "F. Scott Fitzgerald",
+    "correct_answer": "George Orwell"
+  },
+  {
+    "question": "What is the chemical symbol for carbon?",
+    "answer_1": "C",
+    "answer_2": "Co",
+    "answer_3": "Ca",
+    "answer_4": "Cu",
+    "correct_answer": "C"
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "answer_1": "Monaco",
+    "answer_2": "Vatican City",
+    "answer_3": "Maldives",
+    "answer_4": "San Marino",
+    "correct_answer": "Vatican City"
+  },
+  {
+    "question": "Who is known as the 'Father of Medicine'?",
+    "answer_1": "Plato",
+    "answer_2": "Aristotle",
+    "answer_3": "Hippocrates",
+    "answer_4": "Socrates",
+    "correct_answer": "Hippocrates"
+  },
+  {
+    "question": "What is the chemical symbol for sodium?",
+    "answer_1": "Sd",
+    "answer_2": "So",
+    "answer_3": "Sa",
+    "answer_4": "Na",
+    "correct_answer": "Na"
+  },
+  {
+    "question": "What is the largest bird in the world?",
+    "answer_1": "Ostrich",
+    "answer_2": "Emu",
+    "answer_3": "Albatross",
+    "answer_4": "Condor",
+    "correct_answer": "Ostrich"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer_1": "Alexander Fleming",
+    "answer_2": "Louis Pasteur",
+    "answer_3": "Joseph Lister",
+    "answer_4": "Marie Curie",
+    "correct_answer": "Alexander Fleming"
+  },
+  {
+    "question": "What is the largest living species of cat?",
+    "answer_1": "Leopard",
+    "answer_2": "Lion",
+    "answer_3": "Tiger",
+    "answer_4": "Cheetah",
+    "correct_answer": "Tiger"
+  }
+]
