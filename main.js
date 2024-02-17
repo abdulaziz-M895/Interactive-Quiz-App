@@ -210,18 +210,23 @@ function showResults(count) {
   if (currentIndex == count) {
     let theResults;
     console.log("End of quiz");
+
     quizArea.remove();
     answersArea.remove();
     submitButton.remove();
     bullets.remove();
 
-    if (rightAnswers > count / 2 && rightAnswers < count) {
-      theResults = `<span class="good">Good</span>, ${rightAnswers} / ${count}`;
+    if (rightAnswers >= count - 2 && count > 5) {
+      theResults = `<span class="great">Great</span>, ${rightAnswers} / ${count}`;
+      console.log("Great");
     } else if (rightAnswers === count) {
       theResults = `<span class="perfect">Perfect</span>, All Answers are Correct`;
+    } else if (rightAnswers > count / 2 && rightAnswers < count) {
+      theResults = `<span class="good">Good</span>, ${rightAnswers} / ${count}`;
     } else {
       theResults = `<span class="bad">Bad</span>, ${rightAnswers} / ${count}`;
     }
+
 
     theResultsContainer.innerHTML = theResults;
     theResultsContainer.style.cssText =
@@ -232,6 +237,8 @@ function showResults(count) {
         theCorrectAnswer(qObject[i]["question"], qObject[i]["correct_answer"]);
       }
     }
+    console.log(rightAnswers);
+    console.log(count - 2);
   }
 }
 
